@@ -1,0 +1,3 @@
+*.docx filter=docx-uncompress
+*.xlsx filter=docx-uncompress
+*.pptx filter=docx-uncompress
